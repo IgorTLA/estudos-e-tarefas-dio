@@ -1,2 +1,2 @@
-# Estudos e Tarefas
-Estudos e tarefas do Bootcamp Eduzz Fullstack Developer #3 - DIO
+# Bootcamp Eduzz Full Stack #3 - DIO
+#### Repositorio com as anotações e códigos das aulas
