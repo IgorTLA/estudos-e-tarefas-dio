@@ -33,4 +33,10 @@ delete something; //deleta algo
 
 typeof something; //determina tipo
 
+//----------------------------
+//Spread - Permite expandir uma expressão em um local que receba múltiplos argumentos ou elementos.
+const num = (a, b) => a + b;
 
+const value = [40, 40]
+
+console.log(num(...value));
