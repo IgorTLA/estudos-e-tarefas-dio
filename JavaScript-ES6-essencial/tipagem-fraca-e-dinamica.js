@@ -6,6 +6,7 @@ var myText = " Etc";
 
 console.log(myNumber + myText);
 
+//----------------------------
 //Tipagem dinâmica - Permite a troca de uma variavel tipo number para uma strig
 var myVar = 40;
 

@@ -1,6 +1,5 @@
 //Exemplos dos conceitos JS abaixo (Tudo feito com base nas aulas do bootcamp):
 
-//----------------------------
 //Funções - São blocos de construção que contém conjunto de instruções que executa uma tarefa ou calcula um valor. 
 //Uma função pode usar outra função como argumento.
 function getName() {
