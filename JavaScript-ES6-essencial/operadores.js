@@ -1,3 +1,5 @@
+//Exemplos de operadores JS abaixo (Tudo feito com base nas aulas do bootcamp):
+
 //Operadores aritméticos - Tomam valores numéricos (sejam literais ou variáveis) como seus operandos e retornam um único valor númerico.
 var num = 12 % 5 //Faz divisão e retorna o restante
 
