@@ -1,5 +1,5 @@
 # Cursos da Digital Innovation One
-#### Repositorio com anotações e exemplos de código, dos conteúdos que estudei com base nos cursos
+#### Repositório com anotações e exemplos de código, dos conteúdos que estudei com base nos cursos
 
 ### **Cursos:**
 
