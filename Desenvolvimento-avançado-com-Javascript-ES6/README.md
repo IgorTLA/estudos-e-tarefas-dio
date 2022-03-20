@@ -1,2 +1,2 @@
-# Introdução a criação de websites com HTML5 e CSS3
-#### Anotações e código sobre a semântica do HTML e Estilização do CSS em websites. 
+# Desenvolvimento avançado com JavaScript ES6
+#### Anotações e códigos sobre o Desenvolvimento avançado com JavaScript ES6. 
