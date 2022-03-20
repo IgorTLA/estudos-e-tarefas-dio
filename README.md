@@ -1,2 +1,9 @@
-# Bootcamp Eduzz Full Stack #3 - DIO
-#### Repositorio com anotações e códigos, usando o que foi aprendindo vendo as aulas
+# Cursos da Digital Innovation One
+#### Repositorio com anotações e exemplos de código, dos conteúdos que estudei com base nos cursos
+
+### **Cursos:**
+
+- Introdução a criação de websites com HTML5 e CSS3
+- JavaScript ES6 essencial
+- Desenvolvimento avançado com JavaScript ES6
+- Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces
