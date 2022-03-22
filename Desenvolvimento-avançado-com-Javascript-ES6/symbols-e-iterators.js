@@ -15,5 +15,31 @@ console.log(message2);
 const interable = ['Apple', 'Pineapple', 'Banana']
 
 for (const value of interable) {
-    console.log(value)
+    console.log(value);
 }
+
+//Com a propriedade Symbol.iterator conseguimos transformar um objeto em iterável:
+const numbers = {
+    values: [5, 6, 7],
+    [Symbol.iterator]() {
+        let i = 0;
+
+        return {
+            next: () => {
+                i++;
+
+                return {
+                    value: this.values[i - 1],
+                    done: i > this.values.length
+                };
+            }
+        };
+    }
+};
+
+const it = numbers[Symbol.iterator]();
+
+console.log(it.next());
+console.log(it.next());
+console.log(it.next());
+console.log(it.next());
